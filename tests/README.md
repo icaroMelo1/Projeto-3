@@ -1,0 +1,1 @@
+Todos os testes foram realizados pela Trybe, de minha autoria apenas pasta './src' .
